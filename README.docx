@@ -1,0 +1,8 @@
+# aggregation_1
+in aggregation both objects are independent of each ohter 
+if one object is removed the other one will remain the same and did not effect the working of ohter object
+in this we first create object then pass it to the other object
+aggregation is one of five types of relationship that exists in a unified modeling
+the relationship between associative classes is represtend by Has-A e.g Employe has a salary
+in this we have uni-directional associates.
+ 
